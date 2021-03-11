@@ -1,6 +1,6 @@
 - git: {
   local-name: pointcloud_to_laserscan, 
-  uri: 'https://github.com/dean-fortier/pointcloud_to_laserscan.git, 
+  uri: 'https://github.com/dean-fortier/pointcloud_to_laserscan.git', 
   version: foxy_omp
 }
 - git: {
